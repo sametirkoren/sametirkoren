@@ -22,12 +22,7 @@ Here are some ideas to get you started:
 
 ## 📚 Learning
 
-<img src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png?raw=true" height="32" />
-<img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="32" />
-<img src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" height="32" />
-<img src="https://github.com/github/explore/blob/master/topics/vue/vue.png?raw=true" height="32" />
-<img src="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true" height="32" />
-<img src="https://github.com/github/explore/blob/master/topics/redis/redis.png?raw=true" height="32" /> 
+<img src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/vue/vue.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/redis/redis.png?raw=true" height="32" /> 
 
 
 ## 📫 How to reach me
