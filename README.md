@@ -2,6 +2,7 @@
 
 
 My name is Samet İrkören, I'm based in Turkey, city Istanbul.
+I am working on algorithm and programming and still improving myself on developing web and mobil applications. I am also following up new trends in programming technologies, innovations and enterprises on web domains. Instead of limiting myself to just school, I always try to improve myself with joining offline and online courses. My aim is to develop a kind of library to be useful for everyone and create a blog for sharing my knowledge.
 
 - 🙋‍♂️ Pronouns: He/him
 
@@ -9,7 +10,7 @@ My name is Samet İrkören, I'm based in Turkey, city Istanbul.
 
 ## 💼 Job
 
-I'm working as a Software Engineer in [Meta Agency]
+I'm working as a Software Engineer in Meta Agency
 
 
 ## 🧠 Know / Using
