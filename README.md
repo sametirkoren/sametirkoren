@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**sametirkoren/sametirkoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📫 How to reach me
+
+You can find and get touch with me on these accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/sametirkoren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sametirkoren/)
+
+[![Twitter Badge](https://img.shields.io/badge/vakidev-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vakidev/)
