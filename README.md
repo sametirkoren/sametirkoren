@@ -10,7 +10,7 @@ I am working on algorithm and programming and still improving myself on developi
 
 ## 💼 Job
 
-I'm working as a Software Engineer in Meta Agency
+I'm working as a Software Engineer in Yılmaz Redüktör
 
 
 ## 🧠 Know / Using
