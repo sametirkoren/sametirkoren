@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vakidev" target="blank"><img src="https://img.shields.io/twitter/follow/vakidev?logo=twitter&style=for-the-badge" alt="vakidev" /></a> </p>
 
-- 💼 I'm working as a Software Engineer in Tiko
+- 💼 I'm working as a Software Developer in Loodos
 
 - 📝 I regularly write articles on [blog.sametirkoren.com.tr](blog.sametirkoren.com.tr)
 
